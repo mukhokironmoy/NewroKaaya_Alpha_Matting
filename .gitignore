@@ -1,3 +1,8 @@
+# Ignore venv directories
+venv/
 .venv/
+*/venv/
+*/.venv/
+
 .vscode/
 
