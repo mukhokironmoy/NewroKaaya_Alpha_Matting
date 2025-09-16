@@ -8,8 +8,8 @@ OUTPUT_FOLDER = Path(r"outputs\downquality_and_downscale_outputs") # change as n
 OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 clean_directory(OUTPUT_FOLDER)
 
-QUALITY_FACTOR = 40   # JPEG quality (1–100)
-SCALE_FACTOR = 0.5    # e.g. 0.5 = half size, 2.0 = double size
+QUALITY_FACTOR = 10   # JPEG quality (1–100)
+SCALE_FACTOR = 0.9   # e.g. 0.5 = half size, 2.0 = double size
 # ===========================================
 
 

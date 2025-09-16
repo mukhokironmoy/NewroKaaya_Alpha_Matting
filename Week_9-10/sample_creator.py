@@ -33,7 +33,7 @@ def create_test_sample(image_dir: Path, output_dir: Path, sample_size: int):
 # Example usage
 # -------------------------------
 if __name__ == "__main__":
-    image_dir = Path(r"PoiseVideos\4715_Ganapathy testing _202_20250311155007\4715_Ganapathy testing _202_20250311155007")                  # folder with images
+    image_dir = Path(r"C:\PoiseVideos\4825_Prasanna K.B_189_20250915225127\4825_Prasanna K.B_189_20250915225127")                  # folder with images
     output_dir = Path("test_sample")    # new folder to be created
     sample_size = 100                  # number of images to copy
 
