@@ -1,0 +1,11 @@
+Case,Format,JPEG_Q,WEBP_Q,Scale,ConvexHull,Crop,Grayscale,Downscale,SampleSizeKB,FinalSizeKB,Compression%
+WebP default,webp,100,100,1.0,True,False,False,False,343.6015625,455.10546875,-32.45151315340715
+"WebP Grayscale +
+QF",webp,75,75,1.0,True,False,True,False,343.177734375,190.4140625,44.514447347003816
+"WebP Grayscale +
+QF + Crop",webp,75,75,1.0,True,True,True,False,343.8740234375,221.986328125,35.445450079090776
+"WebP Grayscale +
+QF + Downscale",webp,75,75,0.75,True,False,True,False,344.142578125,198.236328125,42.397035204113486
+"WebP Grayscale +
+QF + Downscale +
+Crop",webp,75,75,0.75,True,True,True,False,343.43359375,223.21484375,35.00494773598426
